@@ -32,7 +32,7 @@ public class StarPyramid {
         for(int i=0;i<c;i++){
             System.out.print("*");
         System.out.println();
-        System.out.println("hello world");
+        System.out.println("hello");
         }
         
                     
